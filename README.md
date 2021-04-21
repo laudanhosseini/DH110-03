@@ -43,7 +43,7 @@ Click [here](https://docs.google.com/document/d/1w8VFkhx5UBPxRYTCXQz2-MEyLYIgeS5
 
 ### 2. User Data 
 Click [here](https://drive.google.com/file/d/15Qiz7gbNWPLAKCe-uZIhRw9w_YJ8Uhpv/view?usp=sharing) for the recording of the interview. 
-Click here for the transcript of the interview. 
+Click [here](https://otter.ai/u/Lo8ucSFUDI63NcVDBfwo-A5z_4Y) for the transcript of the interview. 
 
 ### User Insights
 
