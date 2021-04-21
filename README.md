@@ -39,7 +39,7 @@ I served as the moderator who guided the participant through a series of tasks t
 
 ## Participatory Research Materials 
 ### 1. Contextual Inquiry Guide 
-Click [here] (https://docs.google.com/document/d/1w8VFkhx5UBPxRYTCXQz2-MEyLYIgeS5QcjqepVokat4/edit?usp=sharing) for the script of the interview, including the introduction, contextual inquiry, user activity, and conclusion. 
+Click [here](https://docs.google.com/document/d/1w8VFkhx5UBPxRYTCXQz2-MEyLYIgeS5QcjqepVokat4/edit?usp=sharing) for the script of the interview, including the introduction, contextual inquiry, user activity, and conclusion. 
 
 ### 2. User Data 
 Click [here](https://drive.google.com/file/d/15Qiz7gbNWPLAKCe-uZIhRw9w_YJ8Uhpv/view?usp=sharing) for the recording of the interview. 
