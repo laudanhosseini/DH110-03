@@ -33,10 +33,10 @@ The two observation methods I used were participatory observation and interview.
 
 I had the participant recorded on a computer with a working camera and microphone, and I used the Zoom app to record the session. Similar to the usability test, I wanted to record the facial features of the participant to better understand initial reactions and any confusion or enjoyment. Additionally, I needed a mobile phone to access the app, Audiobooks HQ, so that I could screen record the users' actions as she explored the various features of this digital reading platform. 
 
-**Bold Text** Participatory Observation: 
+**Participatory Observation:** 
 I wanted to see the natural navigation of the user with a particular digital reading app that has usability issues. This is so I could see the participant's natural searches and track any reactions to the tasks at hand. While this is very similar to the usability test from the previous week, I found it incredibly important to be done again so that I can more freely of what types of books the reader gravitates towards. 
 
-**Bold Text** Interview: 
+**Interview:** 
 I served as the moderator who guided the participant through a series of tasks that involved using the app Audiobooks HQ. The questions I asked varied from the usability test, as it was no longer so focused on the application, but rather the user herself. I wanted to see what she wanted to search for, the purpose of her using a digital reading app, and her general wants/needs/goals from digital reading. I began by (1) asking basic background questions on her reading habits then (2) transitioned into the use of the app then (3) reflected on any issues she ran into using the app and with digital reading in general.  
 
 ## Participatory Research Materials 
@@ -51,6 +51,17 @@ Click [here](https://otter.ai/u/Lo8ucSFUDI63NcVDBfwo-A5z_4Y) for the transcript 
 
 ### User Insights
 
-**Bold Text**
+**User discussing main purpose for online reading**
+"So I'm in you know, a lot of the medical classes, some classes that require, you know, a lot of really thick textbooks, a lot of information, and a lot of reading a lot of articles. And I'm also in research labs and volunteer at the hospitals, you know, it's a lot of material. And I've kind of gotten used to everything being online for the most part when it comes to that."
+
+**User discussing a feature she would like on the Audiobooks HQ app**
+"So maybe we just have a smaller button at the top that you can click, and it's like a drop down menu with all those other smaller pieces. I think trying to have everything laid out on one page is a lot."
+
+**User discussing her ideal digital reading app**
+"But it would be easier if everything was in one place and kind of more concise, okay. Also, a lot of things are affordable. Like, if I just need like one article, that's really short, just like one little piece of like evidence or something, I'll have to like, ask me to pay like $20 $50 just to see and like, get access to it. Okay. I think if there was like a service that had all of those in one that you can just pay for, like, a monthly membership is something you could access, like 1000s of databases, that would be great."
+
+"I think I mean, I maybe I would try to create a version that's more for students, and they have, you know, lots of data sources and scholarly articles and peer reviewed articles that allow you to kind of filter by information and like what topics and different you know, individual things we're trying to learn about. And then from there, even being able to filter through different sections of the audio books that you don't have to, you know, listen to a wide range of a long chunk of them to find the information you're looking for."
 
 ## Reflection
+
+I think that overall, this interview session went pretty smoothly. There were no technical errors, and it seemed that the participant had no confusions in following along with the script. The main thing I would change for the future, however, is the actual participant I chose. Due to a lack of accessibility, the only person I could use as a participant was one of my roommates. She is a young college student, so this does not fit the criteria quite well in terms of creating a user-friendly application for senior citizens. I think the data would be more valuable if I was able to interview someone who fit into that age group. Although, the younger generation is surely more adept at using technology, so seeing the issues my participant ran into was still valuable because that means that those issues would be even greater for older generations who struggle more with navigating technological applications. A lot of what was discussed made sense in my mind about the issues I highlighted inthe introduction. Overall, I learned a lot more about the purposes for digital reading, certain issues associated with it, and ways to create a more idealized version of existing apps.
