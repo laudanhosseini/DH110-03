@@ -52,12 +52,15 @@ Click [here](https://otter.ai/u/Lo8ucSFUDI63NcVDBfwo-A5z_4Y) for the transcript 
 ### User Insights
 
 **User discussing main purpose for online reading**
+
 "So I'm in you know, a lot of the medical classes, some classes that require, you know, a lot of really thick textbooks, a lot of information, and a lot of reading a lot of articles. And I'm also in research labs and volunteer at the hospitals, you know, it's a lot of material. And I've kind of gotten used to everything being online for the most part when it comes to that."
 
 **User discussing a feature she would like on the Audiobooks HQ app**
+
 "So maybe we just have a smaller button at the top that you can click, and it's like a drop down menu with all those other smaller pieces. I think trying to have everything laid out on one page is a lot."
 
 **User discussing her ideal digital reading app**
+
 "But it would be easier if everything was in one place and kind of more concise, okay. Also, a lot of things are affordable. Like, if I just need like one article, that's really short, just like one little piece of like evidence or something, I'll have to like, ask me to pay like $20 $50 just to see and like, get access to it. Okay. I think if there was like a service that had all of those in one that you can just pay for, like, a monthly membership is something you could access, like 1000s of databases, that would be great."
 
 "I think I mean, I maybe I would try to create a version that's more for students, and they have, you know, lots of data sources and scholarly articles and peer reviewed articles that allow you to kind of filter by information and like what topics and different you know, individual things we're trying to learn about. And then from there, even being able to filter through different sections of the audio books that you don't have to, you know, listen to a wide range of a long chunk of them to find the information you're looking for."
